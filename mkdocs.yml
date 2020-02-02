@@ -1,0 +1,4 @@
+site_name: codequebrada
+dev_addr: 0.0.0.0:8080
+nav:
+  - Index: index.md
