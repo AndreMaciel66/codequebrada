@@ -1,138 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="108d222b-e976-4b95-ba86-2841b803abe6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="884c0757-30e9-4742-ac19-9b9cfd2f0e2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codequebrada.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/593a2cd9-e8a7-488c-a82e-7312fb24a94d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="codequebrada" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="codequebrada" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="codequebrada" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Flask Main" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1X1ZX3g0n9fWerQLDIF2Ne5dx9m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1XGa42jSGv2OrWUfyb1DfyQ8nBZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Docker.microblog">
-    <configuration name="codequebrada" type="Python.FlaskServer">
+  <component name="RunManager">
+    <configuration name="codequebrada" type="PythonConfigurationType" factoryName="Python">
       <module name="codequebrada" />
-      <option name="target" value="$PROJECT_DIR$/app.py" />
-      <option name="targetType" value="PATH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="microblog" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
-      <deployment type="docker-image">
-        <settings>
-          <option name="command" value="" />
-          <option name="containerName" value="microblog" />
-          <option name="entrypoint" value="" />
-          <option name="imageTag" value="microblog:latest" />
-          <option name="commandLineOptions" value="" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Docker.microblog" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.57535756" />
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
-                <item name="Images" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:codequebrada" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -144,16 +72,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="108d222b-e976-4b95-ba86-2841b803abe6" name="Default Changelist" comment="" />
-      <created>1580215597021</created>
+      <changelist id="884c0757-30e9-4742-ac19-9b9cfd2f0e2e" name="Default Changelist" comment="" />
+      <created>1580674690892</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580215597021</updated>
-      <workItem from="1580215610420" duration="11215000" />
-      <workItem from="1580300909149" duration="934000" />
-      <workItem from="1580557701746" duration="10000" />
-      <workItem from="1580563235591" duration="1772000" />
-      <workItem from="1580587051113" duration="8326000" />
+      <updated>1580674690892</updated>
+      <workItem from="1580674697177" duration="770000" />
     </task>
     <servers />
   </component>
@@ -161,71 +85,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2352" y="174" key="#Docker_Image" timestamp="1580589698651">
-      <screen x="1680" y="0" width="1920" height="1030" />
+    <state x="1922" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1580674702883">
+      <screen x="1680" y="23" width="1920" height="1007" />
     </state>
-    <state x="2352" y="174" key="#Docker_Image/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580589698651" />
-    <state x="2240" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580609158818">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2240" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580609158818" />
-    <state width="377" height="302" key="GridCell.Tab.0.bottom" timestamp="1580609940263">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state width="377" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580609940263" />
-    <state width="377" height="302" key="GridCell.Tab.0.center" timestamp="1580609940262">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state width="377" height="302" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580609940262" />
-    <state width="377" height="302" key="GridCell.Tab.0.left" timestamp="1580609940260">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state width="377" height="302" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580609940260" />
-    <state width="377" height="302" key="GridCell.Tab.0.right" timestamp="1580609940262">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state width="377" height="302" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580609940262" />
-    <state x="2269" y="130" key="SettingsEditor" timestamp="1580585585700">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2269" y="130" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1030@0.0.1680.1050" timestamp="1580585585700" />
-    <state x="2233" y="153" key="SettingsEditor/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580233366781" />
-    <state x="2280" y="227" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1580593537352">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2280" y="227" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580593537352" />
-    <state x="2189" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1580563246635">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2563" y="261" key="com.intellij.ide.util.TipDialog/0.0.1680.1000/1680.0.1920.1080@1680.0.1920.1080" timestamp="1580557702149" />
-    <state x="773" y="267" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/1680.0.1920.1010@1680.0.1920.1010" timestamp="1580215616557" />
-    <state x="2189" y="149" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/1680.0.1920.1030@0.0.1680.1050" timestamp="1580563246635" />
-    <state x="2614" y="50" width="960" height="946" key="dock-window-1" timestamp="1580585586167">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2664" y="38" width="884" height="904" key="dock-window-1/0.0.1680.1000/1680.0.1920.1080@1680.0.1920.1080" timestamp="1580557711486" />
-    <state x="461" y="253" width="837" height="500" key="dock-window-1/0.0.1680.1000@0.0.1680.1000" timestamp="1580307286990" />
-    <state x="2614" y="50" width="960" height="946" key="dock-window-1/0.0.1680.1050/1680.0.1920.1030@0.0.1680.1050" timestamp="1580585586167" />
-    <state x="2663" y="56" width="837" height="904" key="dock-window-1/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580306164143" />
-    <state x="1693" y="44" width="909" height="904" key="dock-window-2" timestamp="1580233554998">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="1729" y="42" width="901" height="904" key="dock-window-2/0.0.1680.1000/1680.0.1920.1080@1680.0.1920.1080" timestamp="1580232504476" />
-    <state x="1693" y="44" width="909" height="904" key="dock-window-2/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580233554998" />
-    <state x="2305" y="228" key="search.everywhere.popup" timestamp="1580586771885">
-      <screen x="1680" y="0" width="1920" height="1030" />
-    </state>
-    <state x="2305" y="228" key="search.everywhere.popup/0.0.1680.1050/1680.0.1920.1030@1680.0.1920.1030" timestamp="1580586771885" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/sqlalchemy/engine/default.py</url>
-          <line>587</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1922" y="359" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/1680.23.1920.1007@1680.23.1920.1007" timestamp="1580674702883" />
   </component>
 </project>
